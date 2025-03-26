@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/licb1573/am-cf-tunnel/refs/heads/main/tw.txt@220.228.6.232
 https://raw.githubusercontent.com/licb1573/am-cf-tunnel/refs/heads/main/jpip.txt@141.147.163.68
 https://raw.githubusercontent.com/licb1573/am-cf-tunnel/refs/heads/main/hkip.txt@47.240.42.138
-https://raw.githubusercontent.com/licb1573/am-cf-tunnel/refs/heads/main/sjpip.txt@8.219.121.171
+https://raw.githubusercontent.com/licb1573/am-cf-tunnel/refs/heads/main/sjpip.txt@168.138.165.174
 https://raw.githubusercontent.com/licb1573/am-cf-tunnel/refs/heads/main/huashidunip.txt@proxyip.us.fxxk.dedyn.io
 https://raw.githubusercontent.com/licb1573/am-cf-tunnel/refs/heads/main/ruidianip.txt@129.151.204.91
